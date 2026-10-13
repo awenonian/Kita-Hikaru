@@ -32,7 +32,8 @@ Grocery kiosk, ysoki clerk mid-argument, undercharges her 14 cr (her rationed co
 
 ## POSITIONS
 
-None yet.
+- S1 day 1: decided (privately) to take Brightwell's payment for the TITHE modules and then destroy the finished programs from inside during the crew's break-in — "Good winning in small ways." Conditional on the project being as sinister as it looks. Not yet acted on.
+- S1 day 1: claimed fragment #9 on a burner to stall the capstone.
 
 ## Facts
 

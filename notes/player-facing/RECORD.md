@@ -68,3 +68,13 @@ more than *declined to answer*.
 - Kita makes a burner Specwork account to claim fragment #9 (the remote-seal capstone) and deny it to the real builders for the hold period.
 - Oracle: is #9 posted/claimable now? **YES, AND** (4 vs unlikely) — not only posted but *pushed*: bumped to the top of the board, flagged urgent, pay conspicuously high (listed 200 cr vs her 60). They want the capstone finished fast.
 - She claims it on the burner (no roll — unpressured, within her skill). #9 is now held to her alt for its deadline window (4 days); no one else can build it in that window. She reads the urgency as its own tell.
+
+## Session 1 — day 1, daytime prep + the notice
+
+- Kita's plan (stated): take Brightwell's money by submitting the modules, then delete the finished programs from the inside during the crew's break-in. "The only thing better than leaving them unfinished would be taking their money AND leaving them unfinished." Not a crusader, but happy to put her mark on the world as Good winning in small ways — IF "tithe"/"collection" prove as bad as they sound.
+  - *(GM note: her plan assumes the crew's target system is where the programs live, and that deleting source removes the threat. The field-office job does reach the internal segment; but deployed lock firmware ≠ source, and corps keep backups. Let this be discoverable in play, not sprung.)*
+- Wrote fragment #9 (the remote-seal capstone) to completion on the burner side. Did NOT submit. Genuinely good work.
+- Captured findings to a spare datachip (reused Korrask's, to return it): network structure, the isolated MRW-INT server (referenced, no external route), the 9-task pipeline, the `tithe`/"collection" wording, plus her own assessment. Stowed in Miku.
+- Wrote a letter to hand the crew first (to carry the meeting on yes/no after):
+  > Hello, / I scoped out the system. Findings are attached. / This is Miku. I'm sorry about not being there, but I'm nervous about meeting in person. / The corp sounds like it's probably bad news, but I would like to know how bad it is, if you know anything. / Kita
+- **Midday: Odessa's inspection notice arrives** (see below) — carrying the tamper flag from yesterday's failed hack.

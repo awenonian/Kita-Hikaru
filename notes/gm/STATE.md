@@ -23,7 +23,7 @@ Day 0 = the morning session 1 opens.
 | Clock | Segments | Filled | What happens when it completes |
 |---|---|---|---|
 | Rent (due day 9) | 9 days | 0 | Rent unpaid → late fee, then Brightwell "arrears notice" — which under the addendum is a second default trigger. |
-| Inspection of 14-C | 6 | 0 | Odessa's notice arrives day 1 for day 6. If refused/no access → Cadmus Vell logs "refusal of entry"; 14-C flagged non-compliant; default clock starts. |
+| Inspection of 14-C | 6 days | 0 (notice delivered S1 day 1, set for day 6 / "Thursday" 1000) | If refused/no access → Cadmus Vell logs "refusal of entry"; 14-C flagged non-compliant; default clock starts. |
 | TITHE build (fragments #6–9) | 4 | 1 (Kita took #6; has NOT delivered — now knows what it does. If she delivers, fills; if she sabotages/stalls, the Tally finds another contractor, ~3 days) | Each fragment taken by a contractor fills one (~2–3 days each; #6 goes to someone else in 2 days if Kita doesn't take it). Then deployment. |
 | #9 burner hold | 4 days | 0 | Hold lapses → #9 reverts, Tally reposts/escalates (may assign internally). |
 | Tally notices stalled #9 | 3 | 0 | Fills as the urgent capstone sits unbuilt. "Compliance Engineering" (Whistle) messages the burner for an ETA; then escalates to Ostrava's attention. Complete → they investigate the burner claimant. |
@@ -54,7 +54,7 @@ Day 0 = the morning session 1 opens.
 
 ## Events not yet surfaced
 
-- **S1 day 0:** Brightwell's system logged a `TAMPER_SUSPECTED` event on 14-C's lock (interior side). It lands in Cadmus Vell's compliance queue. Effect: when Odessa's notice goes out (day 1), it carries an added line that the access system flagged a fault and the lock will be checked at inspection. Vell takes a personal interest in 14-C now.
+- **S1 day 0:** Brightwell's system logged a `TAMPER_SUSPECTED` event on 14-C's lock (interior side). It lands in Cadmus Vell's compliance queue. Effect (DELIVERED S1 day 1): Odessa's notice carries an added line — the access system flagged a fault on 14-C's lock; it'll be checked at inspection. Vell has a personal interest in 14-C now.
 
 ## Rulings
 
