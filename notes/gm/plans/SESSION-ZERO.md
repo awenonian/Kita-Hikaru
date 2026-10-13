@@ -132,3 +132,27 @@ Rule applied: heavier, not falser. Every connection's played history stays true;
 - **Combat:** expected, "fairly regular," just not the only thing.
 - **Scale:** small person somewhere large — "though it doesn't have to be that large to make Kita feel small."
 - **Requests:** none further. One: **don't stay on Absalom for the whole game.** It's home base; leaving is part of the point.
+
+## The world, broad strokes <!-- shared; proposed to player, pending their pushback -->
+
+- **Absalom Station** (Player Core): the Eye (corporate towers, Jatembe Park, academia), the Ring (eclectic neighbourhoods + industry), the Arms (hangars, docks), the Spike (dilapidated industrial tunnels into the Ghost Levels), the Armada (ships docked in orbit).
+- **Spindle Cross** — Kita's Ring neighbourhood: stacked housing over light industry near the spinward lifts. Her building: **Coil Street Stack**, 14th floor, a one-room unit with a damp corner. Below, the **Sump**: salvage market, where Nib's stall is. Tallow & Leaf (closed) was two levels up.
+- **Specwork** — the anonymous contract marketplace she works through: spec posted, code delivered, credits paid, no faces. Owned (it's in the footer) by **Tallyhall Financial**, an escrow/payments firm in the Eye that has been buying a lot lately — including **Brightwell Residential**, the management company that took over Coil Street Stack four months ago (Odessa's new bosses).
+- Faith on the station is public and plural: the Church of Abadar runs banks and courts of contract; devil-worship exists in suits and is legal so long as contracts are honoured; the Devourer's cults are not legal anywhere.
+- Freelance crews take jobs out of the Arms; most have a ship and a hole in their roster.
+
+## The starting situation   <!-- who is moving, and on what -->
+
+Two things in motion, neither aimed at Kita on purpose, both arriving at her:
+
+1. **A crew is looking for whoever builds Miku.** Their tech specialist left (took a corporate job — mundane). Their engineer saw Nib's stall-cam footage of Miku's stabilised flight. They have a job that needs a hacker and they have no idea who or where the builder is — only that the drone shops at Nib's on a schedule.
+2. **A Specwork contract is waiting for her** — well-paid, oddly narrow: a single module for building access-controller firmware, with a spec that references interfaces she isn't given. Rent is due in nine days and she has 1 credit.
+
+## Underneath (world) — PRIVATE
+
+- **Tallyhall Financial** is legitimate on paper. Inside its board sits a cell of **Mammon** worshippers (archdevil of Erebus — Hell's vaults; per GM Core "thought to have ascended to a purely digital form along with the evolution of mortal currencies"). They call themselves **the Tally**. Leader: **Director Sabine Ostrava** (human, 60s, unfailingly polite, genuinely devout).
+- **What they're doing:** buying the management of cheap Ring housing (Brightwell → Coil Street Stack and four other Spindle Cross blocks). On lease renewal, tenants click through a linked **addendum** that is a real infernal contract: on *default*, the tenant's "assets, tangible and intangible" are pledged — and in Hell's accounting that includes the soul. Then they **manufacture defaults**: "breach of inspection compliance" counts as default. The new insurer-mandated inspections are the trigger; the access-control firmware (assembled from fragmented Specwork contracts so no contractor sees the whole) lets Brightwell lock units, log "refused entry," and run the clock.
+- **Kita signed the renewal** two months ago (auto-renew via the website; the addendum is a link in the text she didn't open). She has postponed two inspections. **She is exactly the kind of tenant the system is built to catch.** Odessa doesn't know any of this; she thinks the audit is just a new firm being fussy. Odessa's faked "completed" log is the only reason Kita isn't already flagged — and the audit will expose it.
+- **The Specwork contract** in front of her is fragment #6 of 9: the module that converts "access refused" events into a compliance-breach record. Her code style is distinctive; if she takes it, her work will be in the machine.
+- **The crew's job:** their client is **Hollis Venn**, an Abadaran contract-priest at the **First Vault of Spindle Cross**, who has noticed default filings spiking in Brightwell properties and suspects fraud but can't prove it. He wants Tallyhall's lease-processing records pulled from a Brightwell server. He doesn't know about the infernal angle; he thinks it's ordinary crooked lending. Abadar's church would void infernal contracts as fraud if proven — and that's the lever that saves tenants.
+- **Why leaving Absalom follows:** the Tally's ledgers are mirrored offsite (Tallyhall has a data vault on Verces / or aboard an Armada ship — decide at prep), and the Tally is one cell of a wider Mammonite network. Pulling the thread leads off-station.
