@@ -25,3 +25,6 @@ more than *declined to answer*.
 - Kita put the lock back together ("Hopefully 'No action required' means no action will be taken..."). Looked at the board first. Added "BRW-ACX" to Nib's list, no alternative, plus a held-back note describing the board. Finished the gimbal list. Sent Miku to the Sump, camera on second monitor; meanwhile scaffolded the handler from the stubs, designed so adding a field or transform later is a small change. (No roll — ordinary work.)
 - Oracle: does Nib have a BRW-ACX? **No** (87 vs likely). Nib: Brightwell's fitters took back every dud unit, counted out of the bins.
 - At the stall: a large vesk on a crate (Korrask) has been watching the lift exits. She recognises Miku.
+- Korrask: (in Vesk, to Nib) "That's the one? The one with the still head?" Then to Miku, Common: "YOU. Little one. Who *builds* you?"
+- Kita froze, then swung Miku behind Nib, facing the vesk at a distance; LED went blank. Then lowered to face Nib: LED "who?"
+- Korrask laughed — read the dodge as good reflexes. Nib: she's Korrask, engineer off a freighter in the Arms, been sitting on his crate two nights waiting. Korrask said the still-head stabiliser is "stupid-hard" and she knows it; her captain has a job that needs a hacker. Held out a comm-code chip: Jess Orr, *Tin Lantern*, Dock 9.

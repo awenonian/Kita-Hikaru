@@ -4,7 +4,14 @@ Engineer of the *Tin Lantern*. Vesk, female, large, loud. Saw Nib's footage of M
 
 ## VOICE
 
-Not yet heard. Prepped — speaks Common badly and Vesk well; volume one setting:
+Said in play (S1 day 0):
+
+- (Vesk, to Nib) "That's the one? The one with the still head?"
+- "YOU. Little one. Who *builds* you?"
+- "Ha! Good. Fast. You don't let strangers touch you. Smart."
+- "Your head stays still. In wind. I watched Nib's footage for an hour. That is stupid-hard. *I* know."
+
+Originally prepped — speaks Common badly and Vesk well; volume one setting:
 
 - "WHO built the little one. I want to shake their hand. Or their claw. Whatever they have."
 - "Your stabiliser reads the air. I watched it for an hour. Do you know how stupid-hard that is? *I* know."
@@ -24,3 +31,7 @@ Not yet heard. Prepped — speaks Common badly and Vesk well; volume one setting
 - **Knows:** Miku's schedule roughly (from Nib); Miku comes from the spinward lifts.
 - **Believes:** the builder is a seasoned engineer, probably old, probably grumpy, like her.
 - **Lies about:** nothing. It isn't in her.
+
+## In play
+
+- S1 day 0: met Miku at Nib's. Read Miku's retreat as good reflexes, not fear. Gave a comm-code chip for Jess Orr, *Tin Lantern*, Dock 9. Doesn't know Kita's name or anything about her.
