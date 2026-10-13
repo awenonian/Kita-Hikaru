@@ -49,9 +49,8 @@ Nothing rolled; SF2e uses point-buy boosts. All player choices.
 - **Skills (trained, +3 prof):** Computers +7, Crafting +7, Technology Lore +7, Arcana +7, Occultism +7, Society +7, Piloting +5, Stealth +5, Thievery +5, Medicine +4. Untrained (deliberately) in Diplomacy, Deception, Intimidation, Performance, Athletics, Acrobatics.
 - **Feats:** Programmer (Coder bg skill feat — Earn Income via Computers = her contract work); Assurance (Computers) (Versatile Human); Commercial Customization (mechanic 1); Natural Ambition (human ancestry) → Commercial Customization again.
 - **Languages:** Common + Akitonian, Vesk (player picks), Trinary, Castrovelian, Kasatha (GM proposed; player had no preference). Reads/writes all fluently from years of client work; spoken accent in all but Common is poor.
-- **AC 16** (10 + Dex 2 + Second Skin 1 + trained 3).
-- **Gear (150 cr start):** custom rig (repair + hacking toolkit), second skin (20; worn under a baggy hoodie, she sleeps in it), laser pistol (30; +5, 1d6 fire, 40 ft, 10 charges, expend 2), 2 spare commercial batteries (20), comm unit (7), commercial medkit (50), hygiene kit (2). **21 credits left.**
-- Commercial medpatch row is missing from the rules skill's table — didn't buy any.
+- **AC 17** (10 + Dex 2 [nanosuit cap 3] + nanosuit 2 + trained 3).
+- **Gear (150 cr start):** custom rig (repair + hacking toolkit), **nanosuit** (40; Tech Core light armor, +2 AC, Dex cap 3, no check penalty, comfort/covert/magical/tech — appears and disappears at will, hides "under the skin"), laser pistol (30; +5, 1d6 fire, 40 ft, 10 charges, expend 2), 2 spare commercial batteries (20), comm unit (7), commercial medkit (50), hygiene kit (2). **1 credit left.** Player chose medkit over medpatch (player's book: commercial medpatch 30 cr, 1d6 HP, +1 vs disease/poison 10 min).
 
 ### Miku (drone, Surveillance chassis, level 1)
 
@@ -71,3 +70,15 @@ Nothing rolled; SF2e uses point-buy boosts. All player choices.
 
 - Standard customizations (Speakers, Manual Dexterity, Skill Module, etc.) can fill a drone's commercial customization slots. (Player agrees; likely a skill transcription gap.)
 - High Voltage (mechanic feat 1, drone) appears in the rules skill at p.41 but the player doesn't see it in their copy — not taken, so moot; treat as suspect if it comes up.
+
+## Motivations and goals    <!-- theirs -->
+
+**Cares about:**
+- **Miku** — proud of having *made* her, but thinks of her as a tool, not a friend. (In the old game she came to lean on Miku emotionally; that was a development, not a starting point. Let it be earnable, not given.)
+- **Niche internet cultures** — lots of opinions, never posts, never engages. Once **commissioned a vtuber model**, thinking she could stream from behind a mask; never went through with it. (She still has it.)
+- **Doing work correctly.** Writes better code than most contractors, considers herself average, always thinks she should have pushed harder. Contract work is impersonal: spec posted → she writes it → credits arrive. She never hears what anyone thought of it.
+
+**Working towards:**
+- *Surface:* stay afloat. Pay rent. Not happy, doesn't think about changing it, may not realise it can change.
+- *Underneath (reflexively not engaged with, because it has hurt before):* wants to be out there, wants friends — not many, people to share life with. That part finds sideways routes: be cool/interesting enough that people seek *her*. From her room that means Miku being cool, or her code. She's contributed to **open-source projects** under the excuse that "open source is good," not "I'm trying to be seen."
+- **Method, crucially:** cool in ways that are *self-defeatingly hard to notice.* Not bedazzled — that's too visible to dare. E.g. a complex algorithm that reads air currents so Miku's camera stays perfectly still, like a bird's head. Impressive only if you notice and know how hard it is. Most people won't.
