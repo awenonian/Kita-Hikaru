@@ -26,7 +26,7 @@ find it. A roll may govern speed, extra detail, or cost — never availability.
 | New smart lock on Kita's own door: model plate / firmware ID `BRW-ACX`, "compliance module pending" | 14-C's door | yes | partly delivered S1 day 0 — via Brightwell tenant FAQ photo; door itself not yet inspected |
 | Odessa's inspection notice: "compliance logged via the new access system" | Odessa's message (day 1) | no | undelivered |
 | Specwork search: eight other recent narrow firmware contracts with `BRW-ACX` interfaces, all different contractors | Specwork history (Computers) | no | delivered S1 day 1 — saw all nine modules on the staging box, codename `tithe` |
-| Whistle: "I just chop the specs up… project TITHE" | Whistle | no | undelivered |
+| Whistle: "I just chop the specs up… project TITHE" | Whistle | no | partly — Kita has seen the deliberate 9-way compartmentalization and the name `tithe`; hasn't met Whistle |
 
 ### 3. The lease addendum is an infernal contract
 
@@ -73,9 +73,15 @@ find it. A roll may govern speed, extra detail, or cost — never availability.
 - The eleven evicted households' units are re-let within days to new tenants on the same addendum.
 - The *Countinghouse* (Tallyhall ship in the Armada) jumps to Verces every 30 days; next in 19 days.
 - Gaspar Ilk, Jess's fallback hacker, owes money to a Free Captains fence and would sell the job.
-- Fragment #9 (last) is the remote-seal command handler. Whoever writes it could include a flaw — or a backdoor.
+- Fragment #9 (last) is the remote-seal command handler. Whoever writes it could include a flaw — or a backdoor. **(S1 day 1: Kita now knows #9 exists, is unclaimed, and what it does.)**
 - Abadar's First Vault holds the *Tin Lantern*'s loan note; Jess's payments are late twice.
 - Nib keeps the stall-cam footage of Miku on a data chip under the counter, labelled "the bird."
+
+### Breadcrumbs dropped toward the Mammon reveal (over-supply discipline — keep 3+)
+
+- S1 day 1: config header `// per S.O. — compliance before collection.` ("collection," and the initials S.O. = Sabine Ostrava, though Kita doesn't know that).
+- S1 day 1: project codename `tithe` — religious, not a rental term. Kita flagged it uneasily.
+- Still held for later: the Mammon sigil on signed addenda (internal segment), the "assets… in any world" clause in her own lease, the chapel/"meditation room" at Tallyhall HQ, Marta Ilesco's pledge-mark.
 
 ## Unrevealed
 

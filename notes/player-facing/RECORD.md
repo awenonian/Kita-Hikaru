@@ -58,3 +58,10 @@ more than *declined to answer*.
   - She can read the code wiring: a `ComplianceRecord` with high enough `severity` feeds a routine that files an automated tenant **default event**. I.e. her handler is a cog in the eviction machine.
   - Bonus (crit): she pulls the **full interface specs** for her own contract off the staging box. She can now finish fragment #6 cleanly — the 60 cr rent money is hers if she wants it.
 - **Dilemma now live:** finishing the contract pays rent but feeds evictions in her own building.
+- Kita reads the other modules (observation she can make, crit access, no roll):
+  - All nine contracts were posted stub-only. Hers wasn't a mistake — the compartmentalization is uniform and deliberate: no single contractor sees more than one piece.
+  - The nine assemble into a pipeline: (1) ingest access events, (2) her REFUSAL_LOGGED→ComplianceRecord handler, (3) severity scoring, (4) default-event filing, (5) notice generation, (6) schedule/lock the unit, (7) audit log, (8) tenant-portal status, (9) remote-seal command handler — the piece that can throw a unit's bolt remotely. #9 is unclaimed and unfinished.
+  - The repo folder is `tithe`. A top-level config file has an author tag she doesn't recognize and a one-line header comment: `// per S.O. — compliance before collection.` ("collection," not "eviction." And "tithe." Kita noted both, uneasy, didn't interpret.)
+- Messaged Jess: "When? Where? Can my drone proxy?"
+- Jess: drone's fine — "I'm hiring your hands, not your face." Picked neutral ground: a shuttered noodle counter off the Arms concourse, Berth Row, tonight 2000. "Advance's twenty if you make it worth meeting. Bring what you can do, not promises." Won't say more over comm.
+- Kita finished the handler code using the real specs — did NOT submit it. Left it done but unsent.

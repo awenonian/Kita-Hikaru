@@ -40,3 +40,6 @@ Originally prepped — flat, practical, asks one question at a time and waits:
 ## Facts
 
 - Ex-Stewards trainee, washed out. Doesn't talk about why.
+
+## In play (S1 day 1)
+- Texted the whole opening exchange. Agreed to a drone proxy: "I'm hiring your hands, not your face." Meet set: shuttered noodle counter off the Arms concourse, Berth Row, 2000 tonight. Advance (20 cr) contingent on Kita showing she's worth it. Doesn't know Kita's name, that she's a tenant, or anything personal.
