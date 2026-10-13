@@ -96,3 +96,13 @@ Nothing rolled; SF2e uses point-buy boosts. All player choices.
   - He's mild ("we're done, you can go") → she presses the button that holds the credstick out again and hopes the hint lands.
 
 **What this tells the GM:** her honesty is real but routes around speech — she'll do the right thing if there's a non-verbal path, and freeze when the only path is talking. Under hostility she flees and then punishes herself. She hopes others will solve the social problem for her. The player enjoys the *interior* of the choice — the freeze, the hope, the branching on how others react — more than a clean decision. Give them situations where other people's tone is the variable, and where there's a hard (verbal) path and a costly/indirect (non-verbal) one.
+
+## Connections              <!-- shared. Names, not roles. -->
+
+Player: all of these exist; she has many arm's-length (drone's-length) people like them. Importance to Kita unclear — fine.
+
+- **Odessa Varn** — building superintendent (human, 50s). Busy, brisk, not unkind. Kita is diligent about rent: automated reminders, paid online, so contact is near zero. Kita never files maintenance tickets (would have to explain / someone would come in) — only the mandatory inspections keep the apartment in repair. Kita used to leave during inspections for a nearly-empty coffee shop/bookshop; **it closed recently** (being empty is bad for business). She has postponed the last **two** inspections since.
+- **Nib** — ysoki parts dealer, salvage stall a few levels down. Miku brings researched parts lists with an alternative for each. Nib has *opinions*: guesses the project from the list, ignores her picks for what he thinks is better, usually right. Never upsells — if his pick costs more he discounts it to the original price. Pure craftsmanship. Kita has never spoken to him; she added an **LED face-screen to Miku** (emoticons + very short text) mostly so Miku can answer Nib yes/no.
+- **Loretta "Lolo" Quince** — artist who made Kita's vtuber model. Messages periodically, warm, a bit pushy, asks about the debut. Kita feels guilty, rarely replies; has once or twice said "Not yet, I've been busy" — obviously not true given how long it's been.
+- **The open-source maintainer** — mostly approve + merge + thumbs-up. Once wrote **"clean, thanks."** Kita doesn't know what to make of it; feels good, writes it off as chance, keeps going back to it.
+- **Her parents** — Kita is an only child. They love her, are worried, don't know how to help. Mom messaged regularly until Kita's non-response became habit; has mostly stopped. They can see she's "online" and messages get "read." They've told her they don't know what to do; she feels bad and doesn't know either.
