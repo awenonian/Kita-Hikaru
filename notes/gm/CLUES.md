@@ -22,8 +22,8 @@ find it. A roll may govern speed, extra detail, or cost — never availability.
 
 | Clue | Where it lives | Core? | Status |
 |---|---|---|---|
-| Fragment #6 spec references interfaces named `BRW-ACX/compliance/*` and an event type `REFUSAL_LOGGED` | Kita's Specwork queue | yes | undelivered |
-| New smart lock on Kita's own door: model plate / firmware ID `BRW-ACX`, "compliance module pending" | 14-C's door | yes | undelivered |
+| Fragment #6 spec references interfaces named `BRW-ACX/compliance/*` and an event type `REFUSAL_LOGGED` | Kita's Specwork queue | yes | delivered S1 day 0 |
+| New smart lock on Kita's own door: model plate / firmware ID `BRW-ACX`, "compliance module pending" | 14-C's door | yes | partly delivered S1 day 0 — via Brightwell tenant FAQ photo; door itself not yet inspected |
 | Odessa's inspection notice: "compliance logged via the new access system" | Odessa's message (day 1) | no | undelivered |
 | Specwork search: eight other recent narrow firmware contracts with `BRW-ACX` interfaces, all different contractors | Specwork history (Computers) | no | undelivered |
 | Whistle: "I just chop the specs up… project TITHE" | Whistle | no | undelivered |
