@@ -9,7 +9,8 @@ recorded status is worse than either, because next session has to guess.**
 | Thread | Status | Where it stands |
 |---|---|---|
 | Rent due in 9 days, 1 credit | open | Day 0. The TITHE contract would cover it. Other Specwork jobs exist but pay less. |
-| The TITHE contract (fragment #6) | open | In Kita's queue. Taken by someone else in 2 days if she passes. |
+| The TITHE contract (fragment #6) | open | Written (real specs) but UNSUBMITTED. She knows it feeds evictions. |
+| Fragment #9 burner claim | open | Claimed on an alt to stall the capstone (held ~4 days). The Tally wanted it urgently; the stall may draw their notice. |
 | Inspection of 14-C | open | Notice arrives day 1 for day 6. No postponement possible. Tallow & Leaf, her old refuge, is gone. |
 | The crew looking for Miku's builder | open | Korrask watching Nib's stall on Miku's cycle. No contact yet. |
 | The Tally / Tallyhall / the addendum | open | Nothing delivered yet. See CLUES.md. |

@@ -65,3 +65,6 @@ more than *declined to answer*.
 - Messaged Jess: "When? Where? Can my drone proxy?"
 - Jess: drone's fine — "I'm hiring your hands, not your face." Picked neutral ground: a shuttered noodle counter off the Arms concourse, Berth Row, tonight 2000. "Advance's twenty if you make it worth meeting. Bring what you can do, not promises." Won't say more over comm.
 - Kita finished the handler code using the real specs — did NOT submit it. Left it done but unsent.
+- Kita makes a burner Specwork account to claim fragment #9 (the remote-seal capstone) and deny it to the real builders for the hold period.
+- Oracle: is #9 posted/claimable now? **YES, AND** (4 vs unlikely) — not only posted but *pushed*: bumped to the top of the board, flagged urgent, pay conspicuously high (listed 200 cr vs her 60). They want the capstone finished fast.
+- She claims it on the burner (no roll — unpressured, within her skill). #9 is now held to her alt for its deadline window (4 days); no one else can build it in that window. She reads the urgency as its own tell.
