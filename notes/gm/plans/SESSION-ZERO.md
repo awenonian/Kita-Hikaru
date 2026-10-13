@@ -123,3 +123,12 @@ Rule applied: heavier, not falser. Every connection's played history stays true;
 - **What actually moves her:** someone noticing the *subtle* thing (the stabiliser, the clean patch) — being seen for competence without having to present herself. Threats to Miku. Threats to the rent / the apartment as safe space. A non-verbal path to doing the right thing. Other people's tone (hostility → flight and self-punishment; mildness → she'll try the indirect route).
 - **What she would never do (as she starts):** call someone voice-first; ask for help; file a complaint; make herself the centre of attention on purpose; leave Miku behind.
 - **Where pressure should come from:** real, modest problems she inflates — an inspection, a closed shop, a parts dealer's chatter, an artist's career, parents moving. None of them hostile. None of them therapists.
+
+## What the player wants    <!-- theirs. Verbatim enough to check against later. -->
+
+- **Doing:** hacking and infiltration jobs are the best fit; any mercenary-style one-off jobs are reasonable. "She isn't a thief, but Starfinder is the kinda place where you can be a thief and a good person, because there are evil corporations and cults around" — evil in the literal sense too ("we literally worship Satan, and want to send people to hell" — science fantasy with evil gods).
+- **Relationships:** "will be relevant to anything, so I don't think they should be the focus." Use them as texture and pressure, not as the plot.
+- **Tone:** lightness and pulp welcome — "the world doesn't need to be gloomy to have gloomy people in it." Kita plays it straight: if a slime ruins everything, the world can be gonzo but Kita's reaction is she feels gross and her clothes are ruined, not "haha."
+- **Combat:** expected, "fairly regular," just not the only thing.
+- **Scale:** small person somewhere large — "though it doesn't have to be that large to make Kita feel small."
+- **Requests:** none further. One: **don't stay on Absalom for the whole game.** It's home base; leaving is part of the point.
