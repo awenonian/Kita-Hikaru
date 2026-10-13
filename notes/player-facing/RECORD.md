@@ -34,3 +34,8 @@ more than *declined to answer*.
 - Nib: duds from the lock install went back in Brightwell crates to their field office on Marrow Street — he saw the van. "Careful. Brightwell counts their scrap." Rang up the gimbal parts: 6 cr. Kita has 1.
 - Kita facepalms — that's why she'd been delaying the shopping. LED: "um...", "hold?", "1c :(". (Player: she may need to program a marquee; the screen holds ~7 characters.)
 - Nib holds the parts for regulars: **3 days**, under the counter, then back on the pegboard. Miku flew home.
+- Plan C (Kita): print the contract (task #, ask, her handle — public info only), circle "Strict interface compliance required" and "Interfaces provided as stubs only" in red, write "full details required?", underline her handle, fold, label "Specwork Contract", send Miku to the Brightwell field office on Marrow Street. "Someone else looking in might find this over complicated compared to just sending an email, but… this feels less personal."
+- Rechecked the Specwork inbox (obsessively): nothing beyond the original stubs. Specwork listing shows client as "Verified Client (anonymous)".
+- Field office hours: 0900–1700 station time. Tomorrow.
+- Evening: scaffolding continued; programmed a marquee mode for Miku's LED (scrolls text 7 chars at a time). No roll.
+- Opened Korrask's chip on a separate air-gapped device: clean. A comm code and a short recorded message from Jess Orr (audio only).

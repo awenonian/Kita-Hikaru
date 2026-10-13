@@ -4,7 +4,14 @@ Captain of the *Tin Lantern*, a battered light freighter berthed in Dock 9 of th
 
 ## VOICE
 
-Not yet heard. Prepped — flat, practical, asks one question at a time and waits:
+In play (S1 day 0, recorded on Korrask's chip):
+
+- "This is Jess Orr, captain of the *Tin Lantern*. If you're hearing this, Korrask found your drone, and I'm sorry about whatever she did."
+- "I don't need you to like us. I need someone who can get into a corporate system and out again without anyone noticing."
+- "Forty credits to you. Twenty up front if you'll meet us. Your call."
+- "I need a yes or no in two days."
+
+Originally prepped — flat, practical, asks one question at a time and waits:
 
 - "I don't need you to like us. I need you to get us in a door."
 - "Can you do it or not. 'Maybe' is a no."
