@@ -13,6 +13,8 @@ In play (S1 day 0, recorded on Korrask's chip):
 
 - (text, S1 day 1) "Brightwell Residential." / "Property company. Client thinks they're cooking evictions. We pull lease records off a server in their field office. Nobody gets hurt." / "You the builder?"
 
+- (text) "Sure enough to pay us." / "Rest of it I tell in person. Not over comm."
+
 Originally prepped — flat, practical, asks one question at a time and waits:
 
 - "I don't need you to like us. I need you to get us in a door."

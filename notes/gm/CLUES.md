@@ -42,7 +42,7 @@ find it. A roll may govern speed, extra detail, or cost — never availability.
 | Clue | Where it lives | Core? | Status |
 |---|---|---|---|
 | The addendum's default clause lists "breach of inspection compliance" | Kita's lease | yes | undelivered |
-| Venn's data: every default in Brightwell properties cites inspection non-compliance; up ~900% in 4 months | Venn / the crew | yes | undelivered |
+| Venn's data: every default in Brightwell properties cites inspection non-compliance; up ~900% in 4 months | Venn / the crew | yes | delivered S1 day 1 via Jess's text |
 | Brightwell server: audit list with 14-C marked "log anomaly — verify" | Brightwell field office server | no | undelivered |
 | Odessa: "Not optional this time." / the audit | Odessa | no | undelivered |
 

@@ -45,3 +45,5 @@ more than *declined to answer*.
 - Kita's reasoning: the crew's job "doesn't exactly sound like honest work, but everyone knows some corporations deserve it." Specwork keeps clients anonymous, but "if it's obvious that the contract is for one of the Asmodean corps, she'll turn it down." So: who's the target, what's the job.
 - Typed "What corp?" to Jess's comm code. Sat on it an hour, window on second monitor, watching a stream by vtuber **Juniper Vex** (avatar by Lolo — the one that made Kita want her own). Hit send without thinking, eyes straight back to the stream.
 - Jess replied within minutes (see below).
+- Kita, privately: Brightwell — she lives in a Brightwell building AND is (presumably) writing a contract for them. Evictions are bad; she has nowhere else to go. Replied: "Yeah. How sure are they?"
+- Jess: "Sure enough to pay us." Then: defaults in Brightwell's Spindle Cross buildings up about nine times in four months; eleven households out; every filing says the same thing — failed inspection compliance. "Rest of it I tell in person. Not over comm."
