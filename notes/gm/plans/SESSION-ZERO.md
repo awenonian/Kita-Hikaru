@@ -42,15 +42,16 @@ the end. Deleting it is what ends session zero and starts the game.
 
 Nothing rolled; SF2e uses point-buy boosts. All player choices.
 
-- **Kita Hikaru**, human (Skilled Human heritage), Coder background, Mechanic 1, drone exocortex.
-- Versatile Human is an alternative *heritage* (player correctly caught this) — Skilled Human means no bonus general feat.
+- **Kita Hikaru**, human (Versatile Human heritage — switched from Skilled), Coder background, Mechanic 1, drone exocortex.
+- Versatile Human is a heritage; it grants one general feat: **Assurance (Computers)** — fixed result 13.
 - **Attributes:** Str +0, Dex +2, Con +2, Int +4, Wis +1, Cha +0. **HP 18.**
 - **Perception** +6 (expert). **Fort** +7, **Ref** +7 (expert), **Will** +4 (trained). **Class DC 17.**
-- **Skills (trained, +3 prof):** Computers +7, Crafting +7, Technology Lore +7, Arcana +7, Occultism +7, Society +7, Piloting +5, Stealth +5, Acrobatics +5, Thievery +5, Medicine +4. Untrained (deliberately) in Diplomacy, Deception, Intimidation, Performance, Athletics.
-  - Skilled Human skill (becomes expert at 5): TBD.
-- **Feats:** Programmer (Coder bg skill feat — Earn Income via Computers = her contract work); Commercial Customization (mechanic 1); Natural Ambition (human ancestry) → Commercial Customization again.
-- **Languages:** Common + 5 (1 + Int). TBD.
-- Gear / armor / AC: TBD.
+- **Skills (trained, +3 prof):** Computers +7, Crafting +7, Technology Lore +7, Arcana +7, Occultism +7, Society +7, Piloting +5, Stealth +5, Thievery +5, Medicine +4. Untrained (deliberately) in Diplomacy, Deception, Intimidation, Performance, Athletics, Acrobatics.
+- **Feats:** Programmer (Coder bg skill feat — Earn Income via Computers = her contract work); Assurance (Computers) (Versatile Human); Commercial Customization (mechanic 1); Natural Ambition (human ancestry) → Commercial Customization again.
+- **Languages:** Common + Akitonian, Vesk (player picks), Trinary, Castrovelian, Kasatha (GM proposed; player had no preference). Reads/writes all fluently from years of client work; spoken accent in all but Common is poor.
+- **AC 16** (10 + Dex 2 + Second Skin 1 + trained 3).
+- **Gear (150 cr start):** custom rig (repair + hacking toolkit), second skin (20; worn under a baggy hoodie, she sleeps in it), laser pistol (30; +5, 1d6 fire, 40 ft, 10 charges, expend 2), 2 spare commercial batteries (20), comm unit (7), commercial medkit (50), hygiene kit (2). **21 credits left.**
+- Commercial medpatch row is missing from the rules skill's table — didn't buy any.
 
 ### Miku (drone, Surveillance chassis, level 1)
 
@@ -64,6 +65,9 @@ Nothing rolled; SF2e uses point-buy boosts. All player choices.
 - Companion DC = class DC 17.
 
 ### Rulings made during creation
+
+- **Acting through Miku:** what Kita does *through* Miku (talking via speakers, perceiving via cameras, knowledge, judgement) uses Kita's modifiers — social stays Kita's untrained Diplomacy and the listener is still talking to a small flying robot. What Miku's *body* does (Stealth, Acrobatics, attacks, fine manipulation incl. Thievery) uses Miku's modifiers. Miku can't hack a terminal for her until the Network (tactical) customization; until then Kita hacks remotely over the infosphere or goes in person. Player agreed — "what I would've suggested."
+- Modify still requires Kita adjacent to Miku even though control range is ignored.
 
 - Standard customizations (Speakers, Manual Dexterity, Skill Module, etc.) can fill a drone's commercial customization slots. (Player agrees; likely a skill transcription gap.)
 - High Voltage (mechanic feat 1, drone) appears in the rules skill at p.41 but the player doesn't see it in their copy — not taken, so moot; treat as suspect if it comes up.
