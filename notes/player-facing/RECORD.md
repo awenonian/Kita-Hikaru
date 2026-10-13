@@ -32,3 +32,5 @@ more than *declined to answer*.
 - Oracle: Korrask stays? **No** (73 vs even). She left, satisfied.
 - Kita hesitated — wants to answer Nib, afraid to use speakers (used only for canned chirps, an "excuse me"). LED to Nib: "job", then "spec".
 - Nib: duds from the lock install went back in Brightwell crates to their field office on Marrow Street — he saw the van. "Careful. Brightwell counts their scrap." Rang up the gimbal parts: 6 cr. Kita has 1.
+- Kita facepalms — that's why she'd been delaying the shopping. LED: "um...", "hold?", "1c :(". (Player: she may need to program a marquee; the screen holds ~7 characters.)
+- Nib holds the parts for regulars: **3 days**, under the counter, then back on the pegboard. Miku flew home.
