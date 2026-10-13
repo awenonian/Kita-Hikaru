@@ -22,3 +22,6 @@ more than *declined to answer*.
 - **Accepted the contract** (TITHE fragment #6, 60 cr, 4 days). Clicked through Specwork's standard contractor NDA.
 - Opened the lock's interior housing (no roll). Found a service header. Hack pending — stakes stated, player choosing roll vs Assurance.
 - Hack roll: 14 (d20 7 +7) vs DC 16 — **failure.** Lock reported a tamper event upstream to Brightwell. No firmware obtained. Player, before rolling: "If it does alert Brightwell, I'll just have to pack it back up, and hope that no one thinks that it's likely I was trying to break into my own room from the inside..."
+- Kita put the lock back together ("Hopefully 'No action required' means no action will be taken..."). Looked at the board first. Added "BRW-ACX" to Nib's list, no alternative, plus a held-back note describing the board. Finished the gimbal list. Sent Miku to the Sump, camera on second monitor; meanwhile scaffolded the handler from the stubs, designed so adding a field or transform later is a small change. (No roll — ordinary work.)
+- Oracle: does Nib have a BRW-ACX? **No** (87 vs likely). Nib: Brightwell's fitters took back every dud unit, counted out of the bins.
+- At the stall: a large vesk on a crate (Korrask) has been watching the lift exits. She recognises Miku.

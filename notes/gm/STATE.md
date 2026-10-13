@@ -26,7 +26,7 @@ Day 0 = the morning session 1 opens.
 | Inspection of 14-C | 6 | 0 | Odessa's notice arrives day 1 for day 6. If refused/no access → Cadmus Vell logs "refusal of entry"; 14-C flagged non-compliant; default clock starts. |
 | TITHE build (fragments #6–9) | 4 | 1 (Kita took #6, S1 day 0; fills fully on delivery — leave at 1 until delivered) | Each fragment taken by a contractor fills one (~2–3 days each; #6 goes to someone else in 2 days if Kita doesn't take it). Then deployment. |
 | TITHE deployment | 4 | 0 | Compliance module live in all 5 Spindle Cross properties: smart locks can seal units and auto-log refusals; defaults harvest at scale. |
-| Crew finds Miku | 3 | 0 | Korrask waits at Nib's on Miku's cycle. Fills on each Miku trip to the Sump or each Nib conversation about "the builder." Complete → the crew makes contact through Miku. |
+| Crew finds Miku | 3 | 3 — COMPLETE S1 day 0 late cycle: Korrask met Miku at Nib's | Korrask waits at Nib's on Miku's cycle. Fills on each Miku trip to the Sump or each Nib conversation about "the builder." Complete → the crew makes contact through Miku. |
 | Venn's window | 10 days | 0 | Venn's legal filing window; if the crew can't deliver, Jess hires Gaspar Ilk (sloppy), the run goes loud, Brightwell tightens security. |
 | Lolo's studio | 3 weeks | 0 | Pinwheel Motion hires someone else. Lolo is gently crushed; tells Kita only if asked. |
 | Hikaru relocation | ~10 weeks | 0 | Aiko and Tomas leave for Aballon. Aiko sends the message ~2 weeks before, regardless. |

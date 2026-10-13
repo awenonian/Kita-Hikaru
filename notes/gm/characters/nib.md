@@ -29,3 +29,7 @@ Not yet heard in play. Prepped — talks *to Miku*, fast, cheeks full of opinion
 
 - Discounts his substitutions to the price of the original request. Never upsells.
 - Old for a ysoki.
+
+## In play
+
+- S1 day 0: no BRW-ACX in stock (oracle). Says Brightwell's fitters reclaimed every defective unit and counted them out of the bins — he asked.
