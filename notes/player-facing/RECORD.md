@@ -78,3 +78,8 @@ more than *declined to answer*.
 - Wrote a letter to hand the crew first (to carry the meeting on yes/no after):
   > Hello, / I scoped out the system. Findings are attached. / This is Miku. I'm sorry about not being there, but I'm nervous about meeting in person. / The corp sounds like it's probably bad news, but I would like to know how bad it is, if you know anything. / Kita
 - **Midday: Odessa's inspection notice arrives** (see below) — carrying the tamper flag from yesterday's failed hack.
+
+## Session 1 — day 1, 2000, the meet (Berth Row)
+- Miku described: modified low-noise quadcopter, sleek light-blue, non-glowing, pristine hidden wiring; flies the low drone lanes, screen blanked in transit.
+- Scene altered (oracle): Jess hedged and called a backup hacker too — **Gaspar Ilk** (wiry human, cheap deck, chip on shoulder) showed up uninvited-feeling and is openly dismissive of "a flying camera." Jess didn't expect both at once. Crew present: Jess, Korrask, Ilyre, + Ilk.
+- Miku arrived, screen blank; on Ilyre's greeting Kita flipped it to `:)`.

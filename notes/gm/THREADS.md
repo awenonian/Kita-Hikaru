@@ -10,6 +10,7 @@ recorded status is worse than either, because next session has to guess.**
 |---|---|---|
 | Rent due in 9 days, 1 credit | open | Day 0. The TITHE contract would cover it. Other Specwork jobs exist but pay less. |
 | The TITHE contract (fragment #6) | open | Written (real specs) but UNSUBMITTED. She knows it feeds evictions. |
+| Gaspar Ilk (rival hacker) | open | Jess's backup; showed up to the meet, prickly about losing the job to a drone. Loose clue: owes a Free Captains fence, would sell the job. |
 | Fragment #9 burner claim | open | Claimed on an alt to stall the capstone (held ~4 days). The Tally wanted it urgently; the stall may draw their notice. |
 | Inspection of 14-C | open | Notice arrives day 1 for day 6. No postponement possible. Tallow & Leaf, her old refuge, is gone. |
 | The crew looking for Miku's builder | open | Korrask watching Nib's stall on Miku's cycle. No contact yet. |
