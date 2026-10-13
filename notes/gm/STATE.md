@@ -43,6 +43,10 @@ Day 0 = the morning session 1 opens.
 - **The damp corner** in 14-C: slow leak from a cracked coolant line behind the wall panel. Harmless now. It is exactly what an inspection would write up.
 - **Tallow & Leaf** owner **Ravae Ost** (lashunta) moved to Castrovel. Shop space now empty, for lease — by Brightwell.
 
+## Events not yet surfaced
+
+- **S1 day 0:** Brightwell's system logged a `TAMPER_SUSPECTED` event on 14-C's lock (interior side). It lands in Cadmus Vell's compliance queue. Effect: when Odessa's notice goes out (day 1), it carries an added line that the access system flagged a fault and the lock will be checked at inspection. Vell takes a personal interest in 14-C now.
+
 ## Rulings
 
 Rules calls made where the system was silent or unclear. Once made, they hold —

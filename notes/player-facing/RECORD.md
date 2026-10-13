@@ -21,3 +21,4 @@ more than *declined to answer*.
 - Kita: "Oh! Well that's easy! I can just wire into the one on my door to pull down the code and decompile it to get the interfaces! I'm... probably not supposed to do that." Reasoning: read-only, nobody gets flak over an inadequate spec — "This really does seem like the best course of action all around."
 - **Accepted the contract** (TITHE fragment #6, 60 cr, 4 days). Clicked through Specwork's standard contractor NDA.
 - Opened the lock's interior housing (no roll). Found a service header. Hack pending — stakes stated, player choosing roll vs Assurance.
+- Hack roll: 14 (d20 7 +7) vs DC 16 — **failure.** Lock reported a tamper event upstream to Brightwell. No firmware obtained. Player, before rolling: "If it does alert Brightwell, I'll just have to pack it back up, and hope that no one thinks that it's likely I was trying to break into my own room from the inside..."
