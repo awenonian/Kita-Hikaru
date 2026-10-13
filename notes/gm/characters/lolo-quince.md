@@ -24,3 +24,7 @@ Not yet heard in play. Prepped — messages, many exclamation marks, sparkle emo
 - **Believes:** Kita is shy, maybe a bit flaky, and a really cool person.
 - **Lies about:** "no pressure."
 - **Won't say:** the studio deadline — unless Kita asks why she keeps asking.
+
+## Facts (added in play)
+
+- Lolo made the avatar for vtuber **Juniper Vex** (a popular-ish streamer: soft-spoken, plays old puzzle games). Juniper Vex is why Kita commissioned her own model. *(S1 day 1)*

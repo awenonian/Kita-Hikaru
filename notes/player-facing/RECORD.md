@@ -39,3 +39,9 @@ more than *declined to answer*.
 - Field office hours: 0900–1700 station time. Tomorrow.
 - Evening: scaffolding continued; programmed a marquee mode for Miku's LED (scrolls text 7 chars at a time). No roll.
 - Opened Korrask's chip on a separate air-gapped device: clean. A comm code and a short recorded message from Jess Orr (audio only).
+
+## Session 1 — day 1, morning, 14-C
+
+- Kita's reasoning: the crew's job "doesn't exactly sound like honest work, but everyone knows some corporations deserve it." Specwork keeps clients anonymous, but "if it's obvious that the contract is for one of the Asmodean corps, she'll turn it down." So: who's the target, what's the job.
+- Typed "What corp?" to Jess's comm code. Sat on it an hour, window on second monitor, watching a stream by vtuber **Juniper Vex** (avatar by Lolo — the one that made Kita want her own). Hit send without thinking, eyes straight back to the stream.
+- Jess replied within minutes (see below).

@@ -19,3 +19,7 @@ Format, loosely:
 ---
 
 > **Kita** — accepted the access-controller firmware contract (60 cr) on Specwork, knowing the spec was missing its interfaces, and decided to pull them off her own door lock rather than ask the client. Cost: nothing yet; she's now committed to writing it within 4 days. *(S1, day 0)*
+
+> **Kita** — her standing rule: if a Specwork contract is obviously for one of the Asmodean corps, she turns it down. Stated to herself, S1 day 1. *(Not yet tested.)*
+>
+> **Kita** — messaged Jess Orr: "What corp?" — her first direct contact with the crew. Cost: an hour of not-sending. *(S1 day 1)*

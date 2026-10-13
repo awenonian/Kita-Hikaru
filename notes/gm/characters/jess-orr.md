@@ -11,6 +11,8 @@ In play (S1 day 0, recorded on Korrask's chip):
 - "Forty credits to you. Twenty up front if you'll meet us. Your call."
 - "I need a yes or no in two days."
 
+- (text, S1 day 1) "Brightwell Residential." / "Property company. Client thinks they're cooking evictions. We pull lease records off a server in their field office. Nobody gets hurt." / "You the builder?"
+
 Originally prepped — flat, practical, asks one question at a time and waits:
 
 - "I don't need you to like us. I need you to get us in a door."
