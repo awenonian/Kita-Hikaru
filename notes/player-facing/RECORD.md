@@ -28,3 +28,7 @@ more than *declined to answer*.
 - Korrask: (in Vesk, to Nib) "That's the one? The one with the still head?" Then to Miku, Common: "YOU. Little one. Who *builds* you?"
 - Kita froze, then swung Miku behind Nib, facing the vesk at a distance; LED went blank. Then lowered to face Nib: LED "who?"
 - Korrask laughed — read the dodge as good reflexes. Nib: she's Korrask, engineer off a freighter in the Arms, been sitting on his crate two nights waiting. Korrask said the still-head stabiliser is "stupid-hard" and she knows it; her captain has a job that needs a hacker. Held out a comm-code chip: Jess Orr, *Tin Lantern*, Dock 9.
+- Miku rose to face Korrask; LED "OK", then "...". Took the chip, stowed it with the board description.
+- Oracle: Korrask stays? **No** (73 vs even). She left, satisfied.
+- Kita hesitated — wants to answer Nib, afraid to use speakers (used only for canned chirps, an "excuse me"). LED to Nib: "job", then "spec".
+- Nib: duds from the lock install went back in Brightwell crates to their field office on Marrow Street — he saw the van. "Careful. Brightwell counts their scrap." Rang up the gimbal parts: 6 cr. Kita has 1.

@@ -46,6 +46,10 @@ find it. A roll may govern speed, extra detail, or cost — never availability.
 | Brightwell server: audit list with 14-C marked "log anomaly — verify" | Brightwell field office server | no | undelivered |
 | Odessa: "Not optional this time." / the audit | Odessa | no | undelivered |
 
+### Loose clue spent
+
+- S1 day 0: Nib told Miku the defective BRW-ACX units went back in Brightwell crates to the Brightwell field office on Marrow Street (he saw the van). Points at the crew's job target.
+
 ## Who knows what
 
 | Person | Knows | Believes (may be false) | Will lie about |
