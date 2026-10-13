@@ -37,3 +37,33 @@ the end. Deleting it is what ends session zero and starts the game.
 
 - Human, level 1.
 - Opens BEFORE the crew: Kita alone in her apartment on Absalom Station, Miku doing errands. The crew (or whoever) finds her from within the world.
+
+## The character — build (step 1, in progress)
+
+Nothing rolled; SF2e uses point-buy boosts. All player choices.
+
+- **Kita Hikaru**, human (Skilled Human heritage), Coder background, Mechanic 1, drone exocortex.
+- Versatile Human is an alternative *heritage* (player correctly caught this) — Skilled Human means no bonus general feat.
+- **Attributes:** Str +0, Dex +2, Con +2, Int +4, Wis +1, Cha +0. **HP 18.**
+- **Perception** +6 (expert). **Fort** +7, **Ref** +7 (expert), **Will** +4 (trained). **Class DC 17.**
+- **Skills (trained, +3 prof):** Computers +7, Crafting +7, Technology Lore +7, Arcana +7, Occultism +7, Society +7, Piloting +5, Stealth +5, Acrobatics +5, Thievery +5, Medicine +4. Untrained (deliberately) in Diplomacy, Deception, Intimidation, Performance, Athletics.
+  - Skilled Human skill (becomes expert at 5): TBD.
+- **Feats:** Programmer (Coder bg skill feat — Earn Income via Computers = her contract work); Commercial Customization (mechanic 1); Natural Ambition (human ancestry) → Commercial Customization again.
+- **Languages:** Common + 5 (1 + Int). TBD.
+- Gear / armor / AC: TBD.
+
+### Miku (drone, Surveillance chassis, level 1)
+
+- Small, Speed 25, fly 20, darkvision. Str +0 Dex +3 Con +1 Int –4 Wis +3 Cha +0. **HP 11** (4 + 6 + Con).
+- Trained: attacks, unarmored, saves, Perception, Acrobatics, Athletics, Stealth.
+- **AC 17** (incl. Armored Plates). Fort +4, Ref +6, Will +6, Perception +6. Acrobatics +6, Stealth +6, Athletics +3.
+- **Spark** (ranged) +6, 1d4 electricity, range increment 30 ft.
+- Support: adjacent creatures can't flank Kita / make her off-guard. Advanced maneuver (later): Blinding Spotlight.
+- **5 customizations** (1 base + 2 drone + 2 feats), re-selectable at daily prep. Day 1: Cameras, Speakers, Manual Dexterity, Armored Plates, Grounded (so no electricity weakness).
+- Immune to mental, bleed, poison, etc. At 0 HP: drone exocortex rule — emergency reboot, immune to damage, back to 1 HP after 1 minute (drone rule overrides the robot "broken" track).
+- Companion DC = class DC 17.
+
+### Rulings made during creation
+
+- Standard customizations (Speakers, Manual Dexterity, Skill Module, etc.) can fill a drone's commercial customization slots. (Player agrees; likely a skill transcription gap.)
+- High Voltage (mechanic feat 1, drone) appears in the rules skill at p.41 but the player doesn't see it in their copy — not taken, so moot; treat as suspect if it comes up.
