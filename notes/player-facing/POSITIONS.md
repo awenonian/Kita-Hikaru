@@ -17,3 +17,5 @@ Format, loosely:
 > **Who** — what they committed to. To whom. What it cost. *(session/scene)*
 
 ---
+
+> **Kita** — accepted the access-controller firmware contract (60 cr) on Specwork, knowing the spec was missing its interfaces, and decided to pull them off her own door lock rather than ask the client. Cost: nothing yet; she's now committed to writing it within 4 days. *(S1, day 0)*

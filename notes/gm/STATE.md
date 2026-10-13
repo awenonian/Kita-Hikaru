@@ -24,7 +24,7 @@ Day 0 = the morning session 1 opens.
 |---|---|---|---|
 | Rent (due day 9) | 9 days | 0 | Rent unpaid → late fee, then Brightwell "arrears notice" — which under the addendum is a second default trigger. |
 | Inspection of 14-C | 6 | 0 | Odessa's notice arrives day 1 for day 6. If refused/no access → Cadmus Vell logs "refusal of entry"; 14-C flagged non-compliant; default clock starts. |
-| TITHE build (fragments #6–9) | 4 | 0 | Each fragment taken by a contractor fills one (~2–3 days each; #6 goes to someone else in 2 days if Kita doesn't take it). Then deployment. |
+| TITHE build (fragments #6–9) | 4 | 1 (Kita took #6, S1 day 0; fills fully on delivery — leave at 1 until delivered) | Each fragment taken by a contractor fills one (~2–3 days each; #6 goes to someone else in 2 days if Kita doesn't take it). Then deployment. |
 | TITHE deployment | 4 | 0 | Compliance module live in all 5 Spindle Cross properties: smart locks can seal units and auto-log refusals; defaults harvest at scale. |
 | Crew finds Miku | 3 | 0 | Korrask waits at Nib's on Miku's cycle. Fills on each Miku trip to the Sump or each Nib conversation about "the builder." Complete → the crew makes contact through Miku. |
 | Venn's window | 10 days | 0 | Venn's legal filing window; if the crew can't deliver, Jess hires Gaspar Ilk (sloppy), the run goes loud, Brightwell tightens security. |
@@ -51,6 +51,7 @@ consistently.
 
 | Situation | Ruling | When |
 |---|---|---|
+| BRW-ACX lock hacking | Commercial smart lock, level 2 → Hack DC 16 (PF2e level-DC). Opening interior housing is ordinary for a mechanic: no roll. Fail = tamper event sent to Brightwell; crit fail = 1-hr tamper lockdown (bolt thrown, won't open either side) + notification; success = access, local log entry of debug-port session; crit = no trace. | S1 day 0 |
 | Drone control range | Ignored by player choice. Friction comes from Miku's limits and jobs needing Kita present. | Session zero |
 | Acting through Miku | Kita's modifiers for what she does through Miku (speech, perception, knowledge); Miku's for what its body does (Stealth, Acrobatics, attacks, Thievery/manipulation). No hacking through Miku without Network customization. | Session zero |
 | Standard robot customizations | May fill a drone's commercial customization slots. | Session zero |
