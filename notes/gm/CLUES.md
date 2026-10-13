@@ -25,7 +25,7 @@ find it. A roll may govern speed, extra detail, or cost — never availability.
 | Fragment #6 spec references interfaces named `BRW-ACX/compliance/*` and an event type `REFUSAL_LOGGED` | Kita's Specwork queue | yes | delivered S1 day 0 |
 | New smart lock on Kita's own door: model plate / firmware ID `BRW-ACX`, "compliance module pending" | 14-C's door | yes | partly delivered S1 day 0 — via Brightwell tenant FAQ photo; door itself not yet inspected |
 | Odessa's inspection notice: "compliance logged via the new access system" | Odessa's message (day 1) | no | undelivered |
-| Specwork search: eight other recent narrow firmware contracts with `BRW-ACX` interfaces, all different contractors | Specwork history (Computers) | no | undelivered |
+| Specwork search: eight other recent narrow firmware contracts with `BRW-ACX` interfaces, all different contractors | Specwork history (Computers) | no | delivered S1 day 1 — saw all nine modules on the staging box, codename `tithe` |
 | Whistle: "I just chop the specs up… project TITHE" | Whistle | no | undelivered |
 
 ### 3. The lease addendum is an infernal contract
@@ -41,7 +41,7 @@ find it. A roll may govern speed, extra detail, or cost — never availability.
 
 | Clue | Where it lives | Core? | Status |
 |---|---|---|---|
-| The addendum's default clause lists "breach of inspection compliance" | Kita's lease | yes | undelivered |
+| The addendum's default clause lists "breach of inspection compliance" | Kita's lease | yes | undelivered (she saw the CODE wiring ComplianceRecord→default, not the lease clause itself yet) |
 | Venn's data: every default in Brightwell properties cites inspection non-compliance; up ~900% in 4 months | Venn / the crew | yes | delivered S1 day 1 via Jess's text |
 | Brightwell server: audit list with 14-C marked "log anomaly — verify" | Brightwell field office server | no | undelivered |
 | Odessa: "Not optional this time." / the audit | Odessa | no | undelivered |

@@ -47,3 +47,14 @@ more than *declined to answer*.
 - Jess replied within minutes (see below).
 - Kita, privately: Brightwell — she lives in a Brightwell building AND is (presumably) writing a contract for them. Evictions are bad; she has nowhere else to go. Replied: "Yeah. How sure are they?"
 - Jess: "Sure enough to pay us." Then: defaults in Brightwell's Spindle Cross buildings up about nine times in four months; eleven households out; every filing says the same thing — failed inspection compliance. "Rest of it I tell in person. Not over comm."
+
+## Session 1 — day 1, ~0820, remote recon of Brightwell
+
+- Kita rethinks the letter: if Brightwell is bad news she won't help them. Decides to probe their field office remotely instead — "white hat then, for the bug bounty, but this isn't that different." VPN, ssh to external pod.
+- Player note: prefers fail-forward (a failed Hack = learns something / bounces off, not "they're hunting you" except maybe on a crit fail); no real time pressure here.
+- **Recon roll: 27 (nat 20, +7) — critical success.** Clean, no trace.
+  - Found: Brightwell's public tenant portal + a sloppily-exposed staging/build box. The lease-processing records the crew wants are NOT reachable — they live on an internal segment (`MRW-INT`) with no route from outside. (This is why the job needs someone physically on-site. Fail-forward on "do it remotely": she can't, and now knows why.)
+  - On the staging box: the firmware build project. **Nine** `BRW-ACX/compliance/*` modules, each a separate anonymous contract. Hers (the REFUSAL_LOGGED → ComplianceRecord handler) is one of them. Repo path codename: **tithe**.
+  - She can read the code wiring: a `ComplianceRecord` with high enough `severity` feeds a routine that files an automated tenant **default event**. I.e. her handler is a cog in the eviction machine.
+  - Bonus (crit): she pulls the **full interface specs** for her own contract off the staging box. She can now finish fragment #6 cleanly — the 60 cr rent money is hers if she wants it.
+- **Dilemma now live:** finishing the contract pays rent but feeds evictions in her own building.

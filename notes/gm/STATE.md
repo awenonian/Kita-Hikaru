@@ -24,7 +24,7 @@ Day 0 = the morning session 1 opens.
 |---|---|---|---|
 | Rent (due day 9) | 9 days | 0 | Rent unpaid → late fee, then Brightwell "arrears notice" — which under the addendum is a second default trigger. |
 | Inspection of 14-C | 6 | 0 | Odessa's notice arrives day 1 for day 6. If refused/no access → Cadmus Vell logs "refusal of entry"; 14-C flagged non-compliant; default clock starts. |
-| TITHE build (fragments #6–9) | 4 | 1 (Kita took #6, S1 day 0; fills fully on delivery — leave at 1 until delivered) | Each fragment taken by a contractor fills one (~2–3 days each; #6 goes to someone else in 2 days if Kita doesn't take it). Then deployment. |
+| TITHE build (fragments #6–9) | 4 | 1 (Kita took #6; has NOT delivered — now knows what it does. If she delivers, fills; if she sabotages/stalls, the Tally finds another contractor, ~3 days) | Each fragment taken by a contractor fills one (~2–3 days each; #6 goes to someone else in 2 days if Kita doesn't take it). Then deployment. |
 | TITHE deployment | 4 | 0 | Compliance module live in all 5 Spindle Cross properties: smart locks can seal units and auto-log refusals; defaults harvest at scale. |
 | Crew finds Miku | 3 | 3 — COMPLETE S1 day 0 late cycle: Korrask met Miku at Nib's | Korrask waits at Nib's on Miku's cycle. Fills on each Miku trip to the Sump or each Nib conversation about "the builder." Complete → the crew makes contact through Miku. |
 | Venn's window | 10 days | 0 | Venn's legal filing window; if the crew can't deliver, Jess hires Gaspar Ilk (sloppy), the run goes loud, Brightwell tightens security. |
@@ -39,10 +39,15 @@ Day 0 = the morning session 1 opens.
 - **TITHE** — the compliance module for Brightwell's new smart locks, built from nine anonymous Specwork fragments (sliced by Whistle on Ostrava's office's instructions) so no contractor sees the whole. Fragment #6 (in Kita's queue) converts "access refused" events into a breach record. Kita's distinctive style would be identifiable in the finished machine if she writes it.
 - **Kita signed the renewal** ~2 months ago, unread. She's postponed two inspections. Odessa faked the second as "completed," which is the *only* reason 14-C isn't already flagged. The audit will expose it.
 - **Eleven Spindle Cross households** have been evicted via default so far. Their debts (and pledges) are held by the Tally. They're scattered — some in the Spike, one family with relatives in the Armada.
+- **Remote recon (S1 day 1, crit):** Kita confirmed the lease-processing DB is on `MRW-INT`, internal-only. She saw the 9-module `tithe` build on a careless staging box and grabbed her own module's full interface spec. She did NOT see: the signed infernal addenda, the Mammon sigil, Whistle's name, or which specific units are flagged (that's all on the internal segment / in the contracts). No trace left.
 - **The crew's job:** Hollis Venn (Abadaran, First Vault) hired the *Tin Lantern* to pull lease-processing records from the **Brightwell field office** (ground floor of **Marrow Street Stack**, another Spindle Cross Brightwell building, two blocks from Kita). Venn thinks it's ordinary fraud. Abadar's courts would void infernal clauses as fraud if proven — this is how tenants get saved.
 - **Leaving Absalom:** Tallyhall mirrors the Tally's ledgers to a data vault aboard **the *Countinghouse***, a Tallyhall-owned ship in the Armada that periodically jumps to Verces. The Tally reports to a wider Mammonite network off-station. Destroying the Absalom copy doesn't free anyone; the off-station ledger is where the pledges live.
 - **The damp corner** in 14-C: slow leak from a cracked coolant line behind the wall panel. Harmless now. It is exactly what an inspection would write up.
 - **Tallow & Leaf** owner **Ravae Ost** (lashunta) moved to Castrovel. Shop space now empty, for lease — by Brightwell.
+
+## Player preferences (table)
+
+- **Fail-forward.** A failed roll should cost something or teach something, not dead-end. Reserve "now they're hunting you" for critical failures. Investigation especially never dead-ends.
 
 ## Events not yet surfaced
 
