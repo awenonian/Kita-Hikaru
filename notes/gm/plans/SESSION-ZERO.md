@@ -82,3 +82,17 @@ Nothing rolled; SF2e uses point-buy boosts. All player choices.
 - *Surface:* stay afloat. Pay rent. Not happy, doesn't think about changing it, may not realise it can change.
 - *Underneath (reflexively not engaged with, because it has hurt before):* wants to be out there, wants friends — not many, people to share life with. That part finds sideways routes: be cool/interesting enough that people seek *her*. From her room that means Miku being cool, or her code. She's contributed to **open-source projects** under the excuse that "open source is good," not "I'm trying to be seen."
 - **Method, crucially:** cool in ways that are *self-defeatingly hard to notice.* Not bedazzled — that's too visible to dare. E.g. a complex algorithm that reads air currents so Miku's camera stays perfectly still, like a bird's head. Impressive only if you notice and know how hard it is. Most people won't.
+
+## Personality              <!-- theirs -->
+
+**Probe (diagnostic only, NOT campaign canon):** late-cycle grocery kiosk, ysoki clerk "Pell" mid-argument with a drunk, queue behind; he undercharges Miku by 14 cr (her rationed coffee). Fixing it means speaking through Miku to a stressed stranger. (Player corrected: she'd have 15 cr and paying leaves 1 — she never miscounts her own cart.)
+
+**What Kita does (player's words, condensed):**
+- **Habitually keeps Miku's mic muted**, in case she makes any sound someone notices. ← standing detail, use it.
+- Reaches for unmute immediately — and freezes, finger hovering. Tries to plan the words; thoughts lock up; nothing comes. Hopes Pell will notice on his own and spare her. Miku just hovers, motionless, even after being waved off.
+- Branches on Pell's reaction:
+  - He notices → relief.
+  - He's angry/yelling at her to go → she flees, then spirals about having stolen. If there's an exit scanner she stops short, panics harder, probably puts the coffee back and leaves without it. Not that she'd happily steal without scanners — there'd just be nothing to pull her out of panicked-flight mode.
+  - He's mild ("we're done, you can go") → she presses the button that holds the credstick out again and hopes the hint lands.
+
+**What this tells the GM:** her honesty is real but routes around speech — she'll do the right thing if there's a non-verbal path, and freeze when the only path is talking. Under hostility she flees and then punishes herself. She hopes others will solve the social problem for her. The player enjoys the *interior* of the choice — the freeze, the hope, the branching on how others react — more than a clean decision. Give them situations where other people's tone is the variable, and where there's a hard (verbal) path and a costly/indirect (non-verbal) one.
