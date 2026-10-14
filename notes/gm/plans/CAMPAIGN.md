@@ -15,13 +15,9 @@ again.
 
 ## Lines and veils
 
-**Settled. The GM does not ask about this at the start of a session.** Lines
-stay out entirely; veils can exist but happen off-page.
-
-- **Lines:** harm to children; body horror; self-harm and suicidal ideation (the player's call — they never went there and don't want to play it).
-- **Veils:** torture happens off-page. Table rule: **anyone who tortures is immediately a bad guy**, no ambiguity.
-
-Also standing: the GM checks in out of character before a scene expected to go somewhere especially heavy, and after one that did. The material is heavy by design (depression, social anxiety, panic); the player has said they're in a good place with it.
+**Moved.** Lines and veils now live in `notes/player-owned/LINES-AND-VEILS.md`
+(they're the player's and durable across campaigns). This heading is kept only
+so anyone reading CAMPAIGN.md knows where they went.
 
 ## Table commands
 
