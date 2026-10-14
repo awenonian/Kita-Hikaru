@@ -34,7 +34,7 @@ find it. A roll may govern speed, extra detail, or cost — never availability.
 |---|---|---|---|
 | The linked addendum in Kita's own renewal — "assets, tangible and intangible, in this world and any other"; clause structure of an infernal compact (Occultism/Arcana/Religion to *recognise*; reading it needs no roll) | Kita's lease, Brightwell portal | yes | undelivered |
 | Brightwell server: addenda signed with a watermark — the sigil of **Mammon** (coin within a keyhole) | Brightwell field office server (Marrow Street Stack) | yes | undelivered |
-| Evicted tenant **Marta Ilesco** (Marrow Street, evicted two months ago) has had a cold spot in her chest since — a pledge mark, visible to detect magic as a faint unholy aura | the Spike, a shelter on Level 9 | no | undelivered |
+| Evicted tenant **Marta Ilesco** (Marrow Street, evicted two months ago) has had a cold spot in her chest since — a pledge mark, visible to detect magic as a faint unholy aura | First Vault, Vault Row (she's being helped by Venn; staying in shelter Level 9) | no | **partly delivered S2 day 2** — Kita heard Marta describe the cold at her breastbone, and the paid-rent/missed-inspection/unread-addendum story; the *mark's nature* (aura) NOT revealed (Miku can't sense magic) |
 | Tallyhall Eye HQ has a private chapel listed as "meditation room"; staff badge access only | Tallyhall HQ | no | undelivered |
 
 ### 4. Inspection non-compliance = default, and 14-C is about to be caught
@@ -83,6 +83,7 @@ find it. A roll may govern speed, extra detail, or cost — never availability.
 - S1 day 1: project codename `tithe` — religious, not a rental term. Kita flagged it uneasily.
 - Still held for later: the Mammon sigil on signed addenda (internal segment), the "assets… in any world" clause in her own lease, the chapel/"meditation room" at Tallyhall HQ, Marta Ilesco's pledge-mark.
 
-## Unrevealed
+## Unrevealed / theory tracking
 
-Everything above. The player has worked out nothing yet; the campaign hasn't started.
+- **Kita has now guessed "it takes people's souls or something" (S2 day 2, said aloud to Venn).** This is substantively CORRECT, reached by inference from `tithe`/"collection"/Marta's cold, not confirmed by any clue. She holds it as a scared hunch, not knowledge. Do NOT confirm it cheaply; let the held clues (Mammon sigil on signed addenda, her own lease clause "assets in any world", the chapel) land it. Venn can't confirm it — he believes fraud, has no proof of the infernal, but is privately frightened by the recurring "cold" in evicted tenants.
+- **Kita's plan has a real gap she hasn't found:** destroying MRW-INT's copy during the job ≠ destroying the machine (staging box, deployed firmware, Tallyhall backups, nightly *Countinghouse* sync). Also: destroying systems during the records job could cost Venn the lawful case and tip Brightwell off. Venn flagged the second in play S2 day 2. The backup/off-station gap still undiscovered.

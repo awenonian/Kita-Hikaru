@@ -27,3 +27,7 @@ Format, loosely:
 > **Kita** — agreed (via `yes` on Miku's screen) to join the *Tin Lantern* crew's job: breach the Brightwell field office and pull the lease-processing records for their client. Took a 20 cr advance. *(S1, day 1, the meet)*
 >
 > **Jess Orr** — committed, in front of her crew, to running the records job for "one of the good ones," and chose Kita/Miku over Ilk on the strength of the work. *(S1, day 1)*
+
+> **Kita** — **spoke aloud for the first time**, through Miku, to the priest Hollis Venn: confessed she sought the crew out knowing Venn hired them, that her contracts feed the evictions, that she built a secret disable-flaw into one, and that she's considering destroying Brightwell's system during the job and taking their money first. Cost: her anonymity with Venn, and the enormous effort of using her voice. *(S2, day 2, First Vault)*
+>
+> **Hollis Venn** — told Kita plainly that he is the crew's client, and held her confession in confidence as a house of Abadar. Committed (implicitly) to counselling her rather than using what she admitted. *(S2, day 2)*
