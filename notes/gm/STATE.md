@@ -30,6 +30,7 @@ Day 0 = the morning session 1 opens.
 | TITHE deployment | 4 | 0 | Compliance module live in all 5 Spindle Cross properties: smart locks can seal units and auto-log refusals; defaults harvest at scale. |
 | Crew finds Miku | 3 | 3 — COMPLETE S1 day 0 late cycle: Korrask met Miku at Nib's | Korrask waits at Nib's on Miku's cycle. Fills on each Miku trip to the Sump or each Nib conversation about "the builder." Complete → the crew makes contact through Miku. |
 | Venn's window | 10 days | 0 | Venn's legal filing window; if the crew can't deliver, Jess hires Gaspar Ilk (sloppy), the run goes loud, Brightwell tightens security. |
+| Ilk sells the job | 2 | 2 — COMPLETE S2 open (oracle yes-and): Ilk → Kask night of day 1; Kask → Brightwell security day 2 | Brightwell puts a guard inside the field office overnight from day 3; patrol doubled. Knows 'a break-in this week, freelancers', nothing else. Telegraph via Ilyre, Jess, Teodor. |
 | Nib holding gimbal parts (6 cr) | 3 days | 0 | Parts go back on the pegboard; Nib mildly put out, not angry. |
 | Lolo's studio | 3 weeks | 0 | Pinwheel Motion hires someone else. Lolo is gently crushed; tells Kita only if asked. |
 | Hikaru relocation | ~10 weeks | 0 | Aiko and Tomas leave for Aballon. Aiko sends the message ~2 weeks before, regardless. |
