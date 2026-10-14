@@ -11,7 +11,7 @@ your decision for something the table established.
 
 ## Chaos factor
 
-**5** — how much the world intrudes, 1 to 9. Feeds `scripts/oracle.py`.
+**4** — how much the world intrudes, 1 to 9. (5→4 after the First Vault scene: Kita came in crisis, left resolved and acting — more in control.) Feeds `scripts/oracle.py`.
 
 Move it one step after a scene: up if the player ended less in control than
 they started, down if more. Not further, and not because a scene felt slow.
@@ -64,6 +64,11 @@ Day 0 = the morning session 1 opens.
 - **Fail-forward.** A failed roll should cost something or teach something, not dead-end. Reserve "now they're hunting you" for critical failures. Investigation especially never dead-ends.
 
 ## Events not yet surfaced
+
+- **S2 day 2 night — faint access trace on Brightwell's staging box.** Kita re-entered to pull the acceptance tests (failed the Hack); logging was now enabled, leaving a small authentication record with her route. Not noticed tonight; could corroborate an investigation into who touched the build host before deployment (e.g., after the Wednesday break-in or if the #6 flaw ever surfaces). The sloppy external exposure is being closed — external route to the build/staging environment gone within ~1–2 days.
+- **#6 sabotage finalized (S2 day 3):** disguised as honest unchecked-accumulation bug, passes the real acceptance tests, reads innocent. The disable still requires a specially-crafted card scanned at a unit. Kita has the full 9-module acceptance-test suite now.
+- **#9 status:** written clean AND a seamed-sabotage variant exists; the elegant/ambitious version is beyond Kita for now (failed roll). If she keeps attempting the deep version, allow further Computers checks over days (DC 18), but each fresh systems trip risks another trace; and the untestable 6-week drift means even a "success" GM should treat as genuinely uncertain to fire.
+
 
 - **S1 day 0:** Brightwell's system logged a `TAMPER_SUSPECTED` event on 14-C's lock (interior side). It lands in Cadmus Vell's compliance queue. Effect (DELIVERED S1 day 1): Odessa's notice carries an added line — the access system flagged a fault on 14-C's lock; it'll be checked at inspection. Vell has a personal interest in 14-C now.
 
