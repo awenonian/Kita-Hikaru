@@ -26,7 +26,7 @@ Day 0 = the morning session 1 opens.
 | Inspection of 14-C | 6 days | 0 (notice delivered S1 day 1, set for day 6 / "Thursday" 1000) | If refused/no access → Cadmus Vell logs "refusal of entry"; 14-C flagged non-compliant; default clock starts. |
 | TITHE build (fragments #6–9) | 4 | 1 (Kita took #6; has NOT delivered — now knows what it does. If she delivers, fills; if she sabotages/stalls, the Tally finds another contractor, ~3 days) | Each fragment taken by a contractor fills one (~2–3 days each; #6 goes to someone else in 2 days if Kita doesn't take it). Then deployment. |
 | #9 burner hold | 4 days | 0 | Hold lapses → #9 reverts, Tally reposts/escalates (may assign internally). |
-| Tally notices stalled #9 | 3 | 0 (day 2 ~1500 ping fills 1) | Fills as the urgent capstone sits unbuilt. "Compliance Engineering" (Whistle) messages the burner for an ETA; then escalates to Ostrava's attention. Complete → they investigate the burner claimant. |
+| Tally notices stalled #9 | 3 | 1 (day 2 ~1500: Whistle pinged the burner, +50 bonus by end of day 3) | Fills as the urgent capstone sits unbuilt. "Compliance Engineering" (Whistle) messages the burner for an ETA; then escalates to Ostrava's attention. Complete → they investigate the burner claimant. |
 | TITHE deployment | 4 | 0 | Compliance module live in all 5 Spindle Cross properties: smart locks can seal units and auto-log refusals; defaults harvest at scale. |
 | Crew finds Miku | 3 | 3 — COMPLETE S1 day 0 late cycle: Korrask met Miku at Nib's | Korrask waits at Nib's on Miku's cycle. Fills on each Miku trip to the Sump or each Nib conversation about "the builder." Complete → the crew makes contact through Miku. |
 | Venn's window | 10 days | 0 | Venn's legal filing window; if the crew can't deliver, Jess hires Gaspar Ilk (sloppy), the run goes loud, Brightwell tightens security. |
@@ -54,6 +54,10 @@ Day 0 = the morning session 1 opens.
 - **Specwork payouts to unverified accounts are escrowed pending Tallyhall identity verification.** The burner can deliver #9 but can't cash out without an identity. Not yet in play.
 - **MRW-INT holds a release mirror of `tithe`**, not the only copy: staging box + Tallyhall backups + nightly sync to the *Countinghouse*. Not yet in play.
 - **Miku has no Network customization** (tactical only). See prepared ruling in session-02.md. Not yet in play.
+
+- **#6 deadline is Wednesday (day 5) end of day** — stated in play S2; supersedes the day-4 figure in session-02.md.
+- **#6 now carries Kita's planted flaw** (S2 day 2): a crafted card makes a unit's refusal tally stop feeding defaults; looks like an honest oversight. #6 spec includes a per-unit refusal tally that #3 scores from, and REFUSAL_LOGGED events carry credential payload fields — so the flaw works as designed. Detection rolled at submission vs Whistle's review (DC 18; Whistle is careless and rushed by "upstairs" — fair circumstance -2 to her DC if she's hurried by Kita's timing, GM call at the time).
+- **Identity:** Tallyhall retains identity records of closed accounts; one account per identity in Specwork ToS. Verifying the burner = linked + account review (Whistle/Ostrava's office sees it). IN PLAY S2 day 2 (Society success).
 
 ## Player preferences (table)
 
