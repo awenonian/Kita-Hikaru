@@ -23,3 +23,7 @@ Format, loosely:
 > **Kita** — her standing rule: if a Specwork contract is obviously for one of the Asmodean corps, she turns it down. Stated to herself, S1 day 1. *(Not yet tested.)*
 >
 > **Kita** — messaged Jess Orr: "What corp?" — her first direct contact with the crew. Cost: an hour of not-sending. *(S1 day 1)*
+
+> **Kita** — agreed (via `yes` on Miku's screen) to join the *Tin Lantern* crew's job: breach the Brightwell field office and pull the lease-processing records for their client. Took a 20 cr advance. *(S1, day 1, the meet)*
+>
+> **Jess Orr** — committed, in front of her crew, to running the records job for "one of the good ones," and chose Kita/Miku over Ilk on the strength of the work. *(S1, day 1)*

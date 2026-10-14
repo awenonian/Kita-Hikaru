@@ -83,3 +83,6 @@ more than *declined to answer*.
 - Miku described: modified low-noise quadcopter, sleek light-blue, non-glowing, pristine hidden wiring; flies the low drone lanes, screen blanked in transit.
 - Scene altered (oracle): Jess hedged and called a backup hacker too — **Gaspar Ilk** (wiry human, cheap deck, chip on shoulder) showed up uninvited-feeling and is openly dismissive of "a flying camera." Jess didn't expect both at once. Crew present: Jess, Korrask, Ilyre, + Ilk.
 - Miku arrived, screen blank; on Ilyre's greeting Kita flipped it to `:)`.
+- Kita typed `yes`, took the 20 cr credstick into Miku's hatch. Jess laid out the job: records are on the internal box (no outside route), so someone must be physically in the Brightwell field office, Marrow Street Stack ground floor, jacked in — Miku goes where a person can't. Ilyre gets them through the front; Korrask + Jess handle bodies; Kita/Miku does the data pull. Run is "a few nights out"; Jess will send the when/way after one more walkthrough, and wants to know what Miku should carry.
+- Jess, leaving: "Whatever your name is. Thanks for being there. Most people aren't."
+- **Session 1 ends here.** Miku flown home with 20 cr, the findings chip, and the job.
