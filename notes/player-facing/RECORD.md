@@ -86,3 +86,11 @@ more than *declined to answer*.
 - Kita typed `yes`, took the 20 cr credstick into Miku's hatch. Jess laid out the job: records are on the internal box (no outside route), so someone must be physically in the Brightwell field office, Marrow Street Stack ground floor, jacked in — Miku goes where a person can't. Ilyre gets them through the front; Korrask + Jess handle bodies; Kita/Miku does the data pull. Run is "a few nights out"; Jess will send the when/way after one more walkthrough, and wants to know what Miku should carry.
 - Jess, leaving: "Whatever your name is. Thanks for being there. Most people aren't."
 - **Session 1 ends here.** Miku flown home with 20 cr, the findings chip, and the job.
+
+<!-- Session 2 begins here. -->
+
+## Session 2 — day 2, morning, 14-C
+
+- Recap from player matched notes; no changes.
+- Jess, 0213: walkthrough tomorrow (her + Ilyre); run **Wednesday night, late** (day 5 — the night before the inspection); "What does your drone need to carry? Tell me today. Korrask builds to spec."
+- Burner Specwork account: 1 new message from client "Compliance Engineering" (unopened).
