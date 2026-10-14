@@ -64,6 +64,15 @@ is the exact thing the file exists to prevent.
 **Run the scripts.** They're small enough to look correct while being wrong.
 `roll.py` and `oracle.py` both take `--seed`, so a check is reproducible.
 
+**Check what the client forbids, as well as what it provides.** A hosted
+session runs under harness instructions the GM never sees us write and cannot
+override — most notably one pinning it to a single branch, which quietly made
+"get the notes onto the default branch" an unfollowable rule. A rule the
+environment won't let the GM execute is worse than no rule: it reads as
+satisfied and isn't. Where the harness blocks something the game needs, write
+the rule as an *ask* addressed to the player, who can grant what the GM can't
+take.
+
 **Check whether the client already does it.** Before writing a rule, ask
 whether the surface the game runs on already provides that capability. A prompt
 that reimplements a platform feature pays for it twice — in context, and in the
@@ -77,9 +86,39 @@ real cost paid by every session of every campaign. Prefer sharpening a clause
 over adding one, and put anything that isn't needed *during play* somewhere
 else.
 
+**A new infrastructure file has to be added to
+`scripts/update-from-template.sh`.** That script is how a campaign already in
+progress receives changes, and it works from an explicit path list rather than
+by merging, because a template-made repository shares no history with its
+template. A file not on the list silently never reaches any existing campaign —
+it will only appear in repositories created after the change. The same applies
+in reverse: a file under `notes/` that is pure guidance can join the list, and
+one that will hold play must not.
+
+**Guidance for a note file goes in `.claude/rules/notes.md`, never in the note
+file itself.** The files under `notes/` hold campaign content, so a campaign in
+progress can never receive an updated copy of one — but it can receive an
+updated copy of the rule, which loads whenever any notes file is opened. Adding
+an explanation back into `STATE.md` or `CLUES.md` because it would be handy to
+see it there is how this decays: it strands that explanation in every existing
+campaign. The note files carry headings and table columns, which give the
+content shape, and nothing else.
+
+The one deliberate exception is `CAMPAIGN.md`'s table-command text, which is
+addressed to the **player** rather than to the GM. They need to be able to read
+it where they are already looking. It is near-static, and the cost of it being
+undeliverable is accepted. The same goes for the player-addressed text in
+`player-owned/LINES-AND-VEILS.md`.
+
 **`notes/` stays empty of play.** This repository is a GitHub template, so the
 files in `notes/` are the starting state of every campaign made from it. If a
 campaign's content lands in one, it becomes someone else's opening canon.
+
+One deliberate exception: `notes/player-owned/LINES-AND-VEILS.md` ships filled
+in. It isn't play content — it's the player's standing preference, it doesn't
+change between campaigns, and shipping it is the whole point, because a new
+campaign inheriting it settled is what stops session zero having the
+conversation every time. Don't empty it out on the rule above.
 
 ## The thing to be suspicious of
 

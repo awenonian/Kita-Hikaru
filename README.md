@@ -21,9 +21,9 @@ last week reads the notes and picks up where you left off.
 
 3. **Session zero happens first.** A fresh copy carries a
    `notes/gm/plans/SESSION-ZERO.md`, and the GM opens by reading it: character,
-   connections, what you actually want to be playing, and lines and veils, all
-   settled out in the open before any of it is prepped. It deletes itself when
-   you're done, and the campaign starts.
+   connections, and what you actually want to be playing, all settled out in the
+   open before any of it is prepped. It deletes itself when you're done, and the
+   campaign starts.
 
 4. **Play.** From the second session on, open with a short recap of where you
    think you left off — off the cuff is fine, lossy is expected. That recap is
@@ -44,8 +44,11 @@ negotiating. To undo something that already happened, use your client's
 rollback; the GM won't try to duplicate it, and won't advertise either one at
 you.
 
-Lines and veils live in `notes/gm/plans/CAMPAIGN.md` and are set by editing that
-file, not negotiated at the top of a session.
+Lines and veils live in `notes/player-owned/LINES-AND-VEILS.md` and are set by
+editing that file, not negotiated at the top of a session. They ship with the
+template and carry into every campaign made from it, so it's worth filling in
+once — **including in your own copy of this repo, if you're making campaigns
+from it.** Session zero reads them before it does anything else.
 
 **`log:` followed by anything**, out of character, at any point:
 
@@ -61,12 +64,39 @@ playing.
 
 | | |
 |---|---|
-| `CLAUDE.md` | The standing instructions. How to open a session, how to keep notes, how to plan, how to talk. This is the piece that does the work. |
+| `CLAUDE.md` | The standing instructions. How to open a session, how to adjudicate, how to hand out information, how to plan. This is the piece that does the work. |
 | `notes/` | The campaign's memory, empty and ready. `notes/README.md` maps it. |
 | `scripts/roll.py` | Dice. |
 | `scripts/oracle.py` | The oracle — yes/no questions, scene checks, random events. The part of the game the GM doesn't control. |
 | `docs/` | How the GM was built: research, the integration tracker, and the stances taken where the sources disagree. Not part of the game. |
 | `.claude/settings.json` | Pre-approves rolling dice, writing to `notes/`, and the git commands that get a session's notes onto the default branch — so play isn't interrupted by permission prompts. Delete it if you'd rather approve each one. |
+
+## Updating a campaign in progress
+
+A repository made with "Use this template" shares no history with the template,
+so `git pull` refuses to merge — and forcing it with
+`--allow-unrelated-histories` would try to merge the template's blank `notes/`
+over a campaign's live ones. Instead, from inside the campaign repository:
+
+```
+scripts/update-from-template.sh
+```
+
+It reads the infrastructure out of the template — the prompt, the path-scoped
+rules, the scripts, the docs, and the guidance-only READMEs and templates under
+`notes/` — and stages them without committing. Everything that holds play is
+left alone: `STATE.md`, `RECORD.md`, `THREADS.md`, `CLUES.md`, `POSITIONS.md`,
+`CAMPAIGN.md`, and the character sheets.
+
+Read `git diff --cached` before committing. The prompt is the thing that runs
+your game, and an update can change how it behaves mid-campaign — so do this
+**between sessions**, never during one.
+
+All the guidance for the stateful notes lives in `.claude/rules/notes.md`,
+which the script *does* update, so changes to how those files work do reach a
+campaign in progress. What can't be delivered is their *structure* — a new
+table column or a new section won't appear in a file you already have. The
+script says so when it finishes.
 
 `CLAUDE.md` is deliberately system-agnostic — it's about running a game, not
 about any particular game. The rules of whatever you're playing come from a
@@ -125,9 +155,13 @@ game empties out, because nothing that succeeds means anything once nothing can
 fail.
 
 Most of `CLAUDE.md` is built against that. Mechanics resolve through a script
-before anything is narrated; stakes are named before the dice; a well-argued
-action still rolls; clues are delivered freely but never interpreted. The
+before anything is narrated; a failed roll has to hand something over rather
+than stall; clues are delivered freely and their meaning is left alone. The
 sources genuinely disagree with each other on several axes, and `docs/stances.md`
 records which side this repo took and why — the reasoning matters more than the
 conclusion, because the conclusion is what a compliant model will drift back
 from.
+
+The prompt was built from research and then cut roughly in half against two
+recorded sessions of play. `playtests/02-acks-two-session-review.md` is that
+review, and `docs/integration.md` marks what was removed and what showed it.
