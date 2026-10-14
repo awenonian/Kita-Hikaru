@@ -22,15 +22,15 @@ Day 0 = the morning session 1 opens.
 
 | Clock | Segments | Filled | What happens when it completes |
 |---|---|---|---|
-| Rent (due day 9) | 9 days | 0 | Rent unpaid → late fee, then Brightwell "arrears notice" — which under the addendum is a second default trigger. |
+| Rent (due day 9) | 9 days | 2 (day 2; Kita now has 46 cr — covered if she pays) | Rent unpaid → late fee, then Brightwell "arrears notice" — which under the addendum is a second default trigger. |
 | Inspection of 14-C | 6 days | 0 (notice delivered S1 day 1, set for day 6 / "Thursday" 1000) | If refused/no access → Cadmus Vell logs "refusal of entry"; 14-C flagged non-compliant; default clock starts. |
 | TITHE build (fragments #6–9) | 4 | 1 (Kita took #6; has NOT delivered — now knows what it does. If she delivers, fills; if she sabotages/stalls, the Tally finds another contractor, ~3 days) | Each fragment taken by a contractor fills one (~2–3 days each; #6 goes to someone else in 2 days if Kita doesn't take it). Then deployment. |
 | #9 burner hold | 4 days | 0 | Hold lapses → #9 reverts, Tally reposts/escalates (may assign internally). |
-| Tally notices stalled #9 | 3 | 0 | Fills as the urgent capstone sits unbuilt. "Compliance Engineering" (Whistle) messages the burner for an ETA; then escalates to Ostrava's attention. Complete → they investigate the burner claimant. |
+| Tally notices stalled #9 | 3 | 0 (day 2 ~1500 ping fills 1) | Fills as the urgent capstone sits unbuilt. "Compliance Engineering" (Whistle) messages the burner for an ETA; then escalates to Ostrava's attention. Complete → they investigate the burner claimant. |
 | TITHE deployment | 4 | 0 | Compliance module live in all 5 Spindle Cross properties: smart locks can seal units and auto-log refusals; defaults harvest at scale. |
 | Crew finds Miku | 3 | 3 — COMPLETE S1 day 0 late cycle: Korrask met Miku at Nib's | Korrask waits at Nib's on Miku's cycle. Fills on each Miku trip to the Sump or each Nib conversation about "the builder." Complete → the crew makes contact through Miku. |
 | Venn's window | 10 days | 0 | Venn's legal filing window; if the crew can't deliver, Jess hires Gaspar Ilk (sloppy), the run goes loud, Brightwell tightens security. |
-| Nib holding gimbal parts (6 cr) | 3 days | 0 | Parts go back on the pegboard; Nib mildly put out, not angry. |
+| Nib holding gimbal parts (6 cr) | 3 days (lapses end of day 3) | 2 | Parts go back on the pegboard; Nib mildly put out, not angry. |
 | Lolo's studio | 3 weeks | 0 | Pinwheel Motion hires someone else. Lolo is gently crushed; tells Kita only if asked. |
 | Hikaru relocation | ~10 weeks | 0 | Aiko and Tomas leave for Aballon. Aiko sends the message ~2 weeks before, regardless. |
 
@@ -47,6 +47,13 @@ Day 0 = the morning session 1 opens.
 - **Leaving Absalom:** Tallyhall mirrors the Tally's ledgers to a data vault aboard **the *Countinghouse***, a Tallyhall-owned ship in the Armada that periodically jumps to Verces. The Tally reports to a wider Mammonite network off-station. Destroying the Absalom copy doesn't free anyone; the off-station ledger is where the pledges live.
 - **The damp corner** in 14-C: slow leak from a cracked coolant line behind the wall panel. Harmless now. It is exactly what an inspection would write up.
 - **Tallow & Leaf** owner **Ravae Ost** (lashunta) moved to Castrovel. Shop space now empty, for lease — by Brightwell.
+
+## Session 2 truths (see plans/session-02.md)
+
+- **Harrow-Dyne paid (IN PLAY S2 day 2):** Dario Pell, project lead, was in medbay a week (lung infection); milestones went unreviewed and Specwork auto-cancelled. Withdrawn; 25 cr released. Offers follow-up phase at the same rate.
+- **Specwork payouts to unverified accounts are escrowed pending Tallyhall identity verification.** The burner can deliver #9 but can't cash out without an identity. Not yet in play.
+- **MRW-INT holds a release mirror of `tithe`**, not the only copy: staging box + Tallyhall backups + nightly sync to the *Countinghouse*. Not yet in play.
+- **Miku has no Network customization** (tactical only). See prepared ruling in session-02.md. Not yet in play.
 
 ## Player preferences (table)
 

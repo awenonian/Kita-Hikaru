@@ -86,3 +86,10 @@ more than *declined to answer*.
 - Kita typed `yes`, took the 20 cr credstick into Miku's hatch. Jess laid out the job: records are on the internal box (no outside route), so someone must be physically in the Brightwell field office, Marrow Street Stack ground floor, jacked in — Miku goes where a person can't. Ilyre gets them through the front; Korrask + Jess handle bodies; Kita/Miku does the data pull. Run is "a few nights out"; Jess will send the when/way after one more walkthrough, and wants to know what Miku should carry.
 - Jess, leaving: "Whatever your name is. Thanks for being there. Most people aren't."
 - **Session 1 ends here.** Miku flown home with 20 cr, the findings chip, and the job.
+
+<!-- Session 2 begins here. -->
+
+## Session 2 — day 2 (Sunday), morning, 14-C
+
+- Player's recap: "Last time Kita picked up a coding contract, and was later contacted by a crew planning a data heist. It turns out their target was a company doing some shady things, which happened to be both the company that posted her coding contract, and the one that owns her apartment! She decided to scope out their network, and found some sinister looking stuff, so she joined the crew, and has a plan to take a little more of the company's money while she's at it." (Matches the notes.)
+- Opening (oracle interrupted the expected scene — "situation improves; arrive / sickness"): Harrow-Dyne Logistics' Dario Pell writes. He was in medbay a week; the cancellation was Specwork's auto-lapse. Withdrawn; **25 cr paid in full.** He liked the work, asks about the follow-up phase. Credits 21 → 46.
