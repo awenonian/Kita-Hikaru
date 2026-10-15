@@ -10,7 +10,7 @@ What the player *doesn't* know goes in `notes/gm/STATE.md`.
 
 ## Kita
 
-- **Now: day 2 (Sunday), morning.** Inspection Thursday = day 6. Rent due day 9.
+- **Now: day 4 (Tuesday), mid-day** (Kita overslept ~30h). Crew run: day 5 (Wed) 0200. #6 due day 5 EOD. Inspection Thursday (day 6) 1000. Rent due day 9.
 - HP 18/18. Miku HP 11/11. **Credits: 46** (1 + 20 cr advance from Jess + 25 cr Harrow-Dyne paid in full, day 2).
 - Home: Coil Street Stack, unit 14-C, Spindle Cross, the Ring, Absalom Station.
 - **Rent: 30 cr/month, due in 9 days** (at campaign start). Harrow-Dyne (cancelled last week) withdrew the cancellation day 2 and paid in full — lead dev Dario Pell had been in medbay. Always paid on time via the Brightwell portal.
